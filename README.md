@@ -1,2 +1,3 @@
-# google-code-in
-Repo for GCI tasks
+# Hello Sugar Labs
+My name is Abdulazeez. I'm an upcoming javascript ninja. i'm from Nigeria.
+
